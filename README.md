@@ -1,4 +1,4 @@
-# System-Monitor-GUI-using-PyQt5
+# System-Monitoring-GUI-using-PyQt5
 ## Install
 1. pip3 install PyQt5
 2. pip3 install psutil
